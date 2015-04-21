@@ -1,0 +1,7 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+    "titulo" : "Mi super aplicación en ingles",
+    "titulo.nombre" :"La aplicacion de los recursos chachi divinos de la muerte en ingles",
+	"mensaje" : "Hola soy edu, feliz navidad en ingles"
+}
